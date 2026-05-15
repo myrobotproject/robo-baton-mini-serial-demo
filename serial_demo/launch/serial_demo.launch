@@ -1,0 +1,5 @@
+<launch>
+    <node name="serial_demo" pkg="serial_demo" type="serial_demo" output="screen">
+        
+    </node>
+</launch>
